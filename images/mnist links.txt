@@ -1,0 +1,3 @@
+https://www.kaggle.com/code/hhp07022000/object-localization-with-mnist
+https://awaywithideas.com/mnist-extended-a-dataset-for-semantic-segmentation-and-object-detection/
+https://pyimagesearch.com/2020/08/24/ocr-handwriting-recognition-with-opencv-keras-and-tensorflow/
